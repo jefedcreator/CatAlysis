@@ -1,0 +1,33 @@
+section{
+    background-color: lightblue;
+}
+
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.carousel-inner{
+    height: 90vh;
+}
+
+img{
+    height: 100%;
+}
+
+form{
+    margin-top: 10%;
+}
+
+form h3{
+    text-align: center;
+}
+
+.pag{
+    margin-top: 10;
+}
